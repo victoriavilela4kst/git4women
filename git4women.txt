@@ -1,0 +1,14 @@
+# Git4Women - Teste de Repositório
+
+Este documento faz parte da atividade do Git4Women e foi criado para fins de teste no repositório do GitHub. Aqui, exploramos o uso de versionamento e colaboração para aprimorar nossos conhecimentos em Git e GitHub.
+
+## Sobre o Projeto
+
+Git4Women é uma iniciativa para incentivar e capacitar mulheres no uso de ferramentas de controle de versão, promovendo um ambiente de aprendizado e troca de experiências.
+
+## Objetivo deste Documento
+
+Este arquivo serve como um teste inicial para garantir que o upload e as funcionalidades do repositório estão sendo utilizadas corretamente.
+
+---
+        
